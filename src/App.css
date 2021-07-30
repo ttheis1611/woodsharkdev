@@ -26,7 +26,7 @@
 }
 
 .products {
-  /* background-image: url('/src/images/backDrop.jpg'); */
+  background-image: url('/src/images/backDrop.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
