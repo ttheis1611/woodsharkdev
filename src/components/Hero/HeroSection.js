@@ -10,7 +10,7 @@ function HeroSection() {
                 autoPlay loop muted />
             <h1>WOOD SHARK OUTFITTERS</h1>
             {/* <img src='images/sm-shark.png' alt='sm-shark' /> */}
-            <img src='images/sticker.png' alt='sticker-flag' /> 
+            <img src='/images/sticker-sm.png' alt='sticker-flag' /> 
             {/* <p>mico, tx  * est. 2020</p> */}
             <div className="hero-btns">
                 <Button 

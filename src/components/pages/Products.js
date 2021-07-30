@@ -8,7 +8,7 @@ function Products() {
     <>
 
       <h1 className='products'>
-        <img src='images/sticker.png' alt='sticker-flag' />
+        <img src='/images/sticker-sm.png' alt='sticker-flag' />
         Store Front
         <i class="fas fa-arrow-down" />
       </h1>;
