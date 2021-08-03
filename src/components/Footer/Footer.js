@@ -39,7 +39,7 @@ function Footer() {
             <h2>Contact Us</h2>
             <Link to='/'>Contact</Link>
             <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
+            <Link to='/'>Products</Link>
             <Link to='/'>Sponsorships</Link>
           </div>
         </div>
@@ -49,7 +49,7 @@ function Footer() {
             <Link to='/'>Submit Video</Link>
             <Link to='/'>Ambassadors</Link>
             <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <Link to='/'>Representation</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
