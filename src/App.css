@@ -1,8 +1,10 @@
+@import url(//db.onlinewebfonts.com/c/89b52f9c5b602bbff3b63de2beef1d23?family=Shimano);
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'goldman';
+  font-family: 'shimano';
 }
 
 .home,
