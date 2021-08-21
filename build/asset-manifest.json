@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5aa25bd.chunk.css",
-    "main.js": "/static/js/main.7bd89358.chunk.js",
-    "main.js.map": "/static/js/main.7bd89358.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9f171e0a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9f171e0a.js.map",
-    "static/js/2.2b35c85e.chunk.js": "/static/js/2.2b35c85e.chunk.js",
-    "static/js/2.2b35c85e.chunk.js.map": "/static/js/2.2b35c85e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d5aa25bd.chunk.css.map": "/static/css/main.d5aa25bd.chunk.css.map",
-    "static/js/2.2b35c85e.chunk.js.LICENSE.txt": "/static/js/2.2b35c85e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/shark.18cab4c5.jpg"
+    "main.css": "/woodsharkdev/static/css/main.7616c4d5.chunk.css",
+    "main.js": "/woodsharkdev/static/js/main.7bd89358.chunk.js",
+    "main.js.map": "/woodsharkdev/static/js/main.7bd89358.chunk.js.map",
+    "runtime-main.js": "/woodsharkdev/static/js/runtime-main.9141f7f4.js",
+    "runtime-main.js.map": "/woodsharkdev/static/js/runtime-main.9141f7f4.js.map",
+    "static/js/2.2b35c85e.chunk.js": "/woodsharkdev/static/js/2.2b35c85e.chunk.js",
+    "static/js/2.2b35c85e.chunk.js.map": "/woodsharkdev/static/js/2.2b35c85e.chunk.js.map",
+    "index.html": "/woodsharkdev/index.html",
+    "static/css/main.7616c4d5.chunk.css.map": "/woodsharkdev/static/css/main.7616c4d5.chunk.css.map",
+    "static/js/2.2b35c85e.chunk.js.LICENSE.txt": "/woodsharkdev/static/js/2.2b35c85e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/woodsharkdev/static/media/shark.18cab4c5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f171e0a.js",
+    "static/js/runtime-main.9141f7f4.js",
     "static/js/2.2b35c85e.chunk.js",
-    "static/css/main.d5aa25bd.chunk.css",
+    "static/css/main.7616c4d5.chunk.css",
     "static/js/main.7bd89358.chunk.js"
   ]
 }
